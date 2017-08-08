@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Ideas</string>
     <string name="label_hint">E.g. physics</string>
+    <string name="submit_button">Submit</string>
 </resources>
